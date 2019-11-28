@@ -1,2 +1,5 @@
 this is Srikanth
 hii sravan
+git add
+git commit -m
+git push origin master
